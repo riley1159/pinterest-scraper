@@ -6,7 +6,7 @@ A simple Pinterest image scraper that uses Playwright and Python to download ima
 
 ### 1. Clone the repository and set up the environment
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/riley1159/pinterest-scraper.git
 cd pinterest-scraper
 
 # Create and activate virtual environment
