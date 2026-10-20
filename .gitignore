@@ -1,0 +1,25 @@
+# Local environments and generated output
+venv/
+.venv/
+env/
+out/
+__pycache__/
+*.py[cod]
+*.part
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Credentials and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+.idea/
+.vscode/
